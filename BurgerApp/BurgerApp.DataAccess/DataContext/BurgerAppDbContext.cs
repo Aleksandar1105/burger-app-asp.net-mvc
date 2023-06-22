@@ -82,14 +82,6 @@
                     FullName = "John Doe",
                     Address = "123 Main St",
                     IsDelivered = false,
-                    Location = new Location()
-                    {
-                        Id = 1,
-                        Name = "Burger Palace",
-                        Address = "456 Elm St",
-                        OpensAt = TimeSpan.FromHours(10),
-                        ClosesAt = TimeSpan.FromHours(21)
-                    },
                     LocationId = 1
                 },
                 new Order()
@@ -98,14 +90,6 @@
                     FullName = "Jane Smith",
                     Address = "789 Oak St",
                     IsDelivered = true,
-                    Location = new Location()
-                    {
-                        Id = 2,
-                        Name = "Burger Kingdom",
-                        Address = "321 Maple Ave",
-                        OpensAt = TimeSpan.FromHours(9),
-                        ClosesAt = TimeSpan.FromHours(20)
-                    },
                     LocationId = 2
                 },
                 new Order()
@@ -114,14 +98,6 @@
                     FullName = "Alice Johnson",
                     Address = "456 Pine St",
                     IsDelivered = true,
-                    Location = new Location()
-                    {
-                        Id = 3,
-                        Name = "Burger Spot",
-                        Address = "789 Cedar Rd",
-                        OpensAt = TimeSpan.FromHours(8),
-                        ClosesAt = TimeSpan.FromHours(22)
-                    },
                     LocationId = 3
                 },
                 new Order()
@@ -130,14 +106,6 @@
                     FullName = "Michael Davis",
                     Address = "987 Walnut Ln",
                     IsDelivered = false,
-                    Location = new Location()
-                    {
-                        Id = 4,
-                        Name = "Burger Hub",
-                        Address = "654 Cherry St",
-                        OpensAt = TimeSpan.FromHours(11),
-                        ClosesAt = TimeSpan.FromHours(23)
-                    },
                     LocationId = 4
                 },
                 new Order()
@@ -146,14 +114,6 @@
                     FullName = "Sarah Wilson",
                     Address = "321 Elm St",
                     IsDelivered = false,
-                    Location = new Location()
-                    {
-                        Id = 5,
-                        Name = "Burger Joint",
-                        Address = "456 Oak St",
-                        OpensAt = TimeSpan.FromHours(10),
-                        ClosesAt = TimeSpan.FromHours(20)
-                    },
                     LocationId = 5
                 });
 
@@ -188,6 +148,49 @@
                     Id = 5,
                     BurgerId = 2,
                     OrderId = 4,
+                });
+
+            modelBuilder.Entity<Location>()
+                .HasData(
+                new Location()
+                {
+                    Id = 1,
+                    Name = "Burger Palace",
+                    Address = "456 Elm St",
+                    OpensAt = TimeSpan.FromHours(10),
+                    ClosesAt = TimeSpan.FromHours(21)
+                },
+                new Location()
+                {
+                    Id = 2,
+                    Name = "Burger Kingdom",
+                    Address = "321 Maple Ave",
+                    OpensAt = TimeSpan.FromHours(9),
+                    ClosesAt = TimeSpan.FromHours(20)
+                },
+                new Location()
+                {
+                    Id = 3,
+                    Name = "Burger Spot",
+                    Address = "789 Cedar Rd",
+                    OpensAt = TimeSpan.FromHours(8),
+                    ClosesAt = TimeSpan.FromHours(22)
+                },
+                new Location()
+                {
+                    Id = 4,
+                    Name = "Burger Hub",
+                    Address = "654 Cherry St",
+                    OpensAt = TimeSpan.FromHours(11),
+                    ClosesAt = TimeSpan.FromHours(23)
+                },
+                new Location()
+                {
+                    Id = 5,
+                    Name = "Burger Joint",
+                    Address = "456 Oak St",
+                    OpensAt = TimeSpan.FromHours(10),
+                    ClosesAt = TimeSpan.FromHours(20)
                 });
         }
     }
