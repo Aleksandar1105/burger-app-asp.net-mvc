@@ -1,0 +1,12 @@
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.Mappers.deps.json
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.Mappers.dll
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.Mappers.pdb
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.csproj.AssemblyReference.cache
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.AssemblyInfoInputs.cache
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.AssemblyInfo.cs
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.csproj.CoreCompileInputs.cache
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.dll
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\refint\BurgerApp.Mappers.dll
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.pdb
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\ref\BurgerApp.Mappers.dll
