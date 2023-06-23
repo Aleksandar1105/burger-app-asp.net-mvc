@@ -15,3 +15,20 @@ D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.
 D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\BurgerApp.DataAccess.pdb
 D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\BurgerApp.DataAccess.genruntimeconfig.cache
 D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\ref\BurgerApp.DataAccess.dll
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.DataAccess\bin\Debug\net6.0\BurgerApp.DataAccess.deps.json
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.DataAccess\bin\Debug\net6.0\BurgerApp.DataAccess.runtimeconfig.json
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.DataAccess\bin\Debug\net6.0\BurgerApp.DataAccess.dll
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.DataAccess\bin\Debug\net6.0\BurgerApp.DataAccess.pdb
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.DataAccess\bin\Debug\net6.0\BurgerApp.Domain.dll
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.DataAccess\bin\Debug\net6.0\BurgerApp.Domain.pdb
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\BurgerApp.DataAccess.csproj.AssemblyReference.cache
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\BurgerApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\BurgerApp.DataAccess.AssemblyInfoInputs.cache
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\BurgerApp.DataAccess.AssemblyInfo.cs
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\BurgerApp.DataAccess.csproj.CoreCompileInputs.cache
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\BurgerApp.DataAccess.csproj.CopyComplete
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\BurgerApp.DataAccess.dll
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\refint\BurgerApp.DataAccess.dll
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\BurgerApp.DataAccess.pdb
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\BurgerApp.DataAccess.genruntimeconfig.cache
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\ref\BurgerApp.DataAccess.dll

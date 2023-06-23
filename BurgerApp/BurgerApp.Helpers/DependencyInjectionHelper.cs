@@ -7,7 +7,7 @@
     {
         public static void InjectDbContext(this IServiceCollection services)
         {
-            services.AddDbContext<BurgerAppDbContext>(options => options.UseSqlServer("Data Source=(localdb)\\LocalDb;Initial Catalog=master;Database=BurgerAppDb;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False"));
+            services.AddDbContext<BurgerAppDbContext>(options => options.UseSqlServer("Data Source=ALEKSANDAR\\SQLEXPRESS;Database=BurgerAppDb;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False"));
         }
     }
 }

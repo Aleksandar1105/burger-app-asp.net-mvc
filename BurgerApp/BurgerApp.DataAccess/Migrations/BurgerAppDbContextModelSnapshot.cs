@@ -43,15 +43,10 @@ namespace BurgerApp.DataAccess.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int?>("OrderId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("Price")
-                        .HasColumnType("int");
+                    b.Property<double>("Price")
+                        .HasColumnType("float");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("OrderId");
 
                     b.ToTable("Burgers");
 
@@ -63,7 +58,7 @@ namespace BurgerApp.DataAccess.Migrations
                             IsVegan = false,
                             IsVegetarian = false,
                             Name = "Classic Cheeseburger",
-                            Price = 180
+                            Price = 180.0
                         },
                         new
                         {
@@ -72,7 +67,7 @@ namespace BurgerApp.DataAccess.Migrations
                             IsVegan = false,
                             IsVegetarian = true,
                             Name = "Veggie Burger",
-                            Price = 200
+                            Price = 200.0
                         },
                         new
                         {
@@ -81,7 +76,7 @@ namespace BurgerApp.DataAccess.Migrations
                             IsVegan = true,
                             IsVegetarian = false,
                             Name = "Beyond Burger",
-                            Price = 220
+                            Price = 220.0
                         },
                         new
                         {
@@ -90,7 +85,7 @@ namespace BurgerApp.DataAccess.Migrations
                             IsVegan = false,
                             IsVegetarian = false,
                             Name = "Bacon Cheeseburger",
-                            Price = 240
+                            Price = 240.0
                         },
                         new
                         {
@@ -99,62 +94,78 @@ namespace BurgerApp.DataAccess.Migrations
                             IsVegan = false,
                             IsVegetarian = false,
                             Name = "Mushroom Swiss Burger",
-                            Price = 260
+                            Price = 260.0
                         });
                 });
 
             modelBuilder.Entity("BurgerApp.Domain.Models.BurgerOrder", b =>
                 {
+                    b.Property<int>("OrderId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("BurgerId")
+                        .HasColumnType("int");
+
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("BurgerId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("OrderId")
-                        .HasColumnType("int");
-
-                    b.HasKey("Id");
+                    b.HasKey("OrderId", "BurgerId");
 
                     b.HasIndex("BurgerId");
-
-                    b.HasIndex("OrderId");
 
                     b.ToTable("BurgerOrder");
 
                     b.HasData(
                         new
                         {
-                            Id = 1,
+                            OrderId = 1,
                             BurgerId = 1,
-                            OrderId = 1
+                            Id = 1
                         },
                         new
                         {
-                            Id = 2,
+                            OrderId = 1,
                             BurgerId = 2,
-                            OrderId = 1
+                            Id = 2
                         },
                         new
                         {
-                            Id = 3,
-                            BurgerId = 1,
-                            OrderId = 2
-                        },
-                        new
-                        {
-                            Id = 4,
+                            OrderId = 2,
                             BurgerId = 3,
-                            OrderId = 3
+                            Id = 2
                         },
                         new
                         {
-                            Id = 5,
+                            OrderId = 2,
+                            BurgerId = 4,
+                            Id = 3
+                        },
+                        new
+                        {
+                            OrderId = 3,
+                            BurgerId = 1,
+                            Id = 4
+                        },
+                        new
+                        {
+                            OrderId = 3,
+                            BurgerId = 5,
+                            Id = 5
+                        },
+                        new
+                        {
+                            OrderId = 4,
                             BurgerId = 2,
-                            OrderId = 4
+                            Id = 6
+                        },
+                        new
+                        {
+                            OrderId = 5,
+                            BurgerId = 3,
+                            Id = 7
                         });
                 });
 
@@ -182,48 +193,48 @@ namespace BurgerApp.DataAccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Location");
+                    b.ToTable("Locations");
 
                     b.HasData(
                         new
                         {
                             Id = 1,
-                            Address = "456 Elm St",
-                            ClosesAt = new TimeSpan(0, 21, 0, 0, 0),
-                            Name = "Burger Palace",
+                            Address = "456 Main St",
+                            ClosesAt = new TimeSpan(0, 22, 0, 0, 0),
+                            Name = "Downtown",
                             OpensAt = new TimeSpan(0, 10, 0, 0, 0)
                         },
                         new
                         {
                             Id = 2,
-                            Address = "321 Maple Ave",
+                            Address = "789 Elm St",
                             ClosesAt = new TimeSpan(0, 20, 0, 0, 0),
-                            Name = "Burger Kingdom",
+                            Name = "Midtown",
                             OpensAt = new TimeSpan(0, 9, 0, 0, 0)
                         },
                         new
                         {
                             Id = 3,
-                            Address = "789 Cedar Rd",
-                            ClosesAt = new TimeSpan(0, 22, 0, 0, 0),
-                            Name = "Burger Spot",
-                            OpensAt = new TimeSpan(0, 8, 0, 0, 0)
-                        },
-                        new
-                        {
-                            Id = 4,
-                            Address = "654 Cherry St",
-                            ClosesAt = new TimeSpan(0, 23, 0, 0, 0),
-                            Name = "Burger Hub",
+                            Address = "123 Oak St",
+                            ClosesAt = new TimeSpan(0, 21, 0, 0, 0),
+                            Name = "Uptown",
                             OpensAt = new TimeSpan(0, 11, 0, 0, 0)
                         },
                         new
                         {
-                            Id = 5,
-                            Address = "456 Oak St",
-                            ClosesAt = new TimeSpan(0, 20, 0, 0, 0),
-                            Name = "Burger Joint",
+                            Id = 4,
+                            Address = "987 Pine St",
+                            ClosesAt = new TimeSpan(0, 22, 0, 0, 0),
+                            Name = "Westside",
                             OpensAt = new TimeSpan(0, 10, 0, 0, 0)
+                        },
+                        new
+                        {
+                            Id = 5,
+                            Address = "321 Walnut Ln",
+                            ClosesAt = new TimeSpan(0, 20, 0, 0, 0),
+                            Name = "Eastside",
+                            OpensAt = new TimeSpan(0, 9, 0, 0, 0)
                         });
                 });
 
@@ -298,25 +309,18 @@ namespace BurgerApp.DataAccess.Migrations
                         });
                 });
 
-            modelBuilder.Entity("BurgerApp.Domain.Models.Burger", b =>
-                {
-                    b.HasOne("BurgerApp.Domain.Models.Order", null)
-                        .WithMany("Burgers")
-                        .HasForeignKey("OrderId");
-                });
-
             modelBuilder.Entity("BurgerApp.Domain.Models.BurgerOrder", b =>
                 {
                     b.HasOne("BurgerApp.Domain.Models.Burger", "Burger")
                         .WithMany("BurgerOrders")
                         .HasForeignKey("BurgerId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.HasOne("BurgerApp.Domain.Models.Order", "Order")
                         .WithMany("BurgerOrders")
                         .HasForeignKey("OrderId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.Navigation("Burger");
@@ -327,9 +331,9 @@ namespace BurgerApp.DataAccess.Migrations
             modelBuilder.Entity("BurgerApp.Domain.Models.Order", b =>
                 {
                     b.HasOne("BurgerApp.Domain.Models.Location", "Location")
-                        .WithMany()
+                        .WithMany("Orders")
                         .HasForeignKey("LocationId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.Navigation("Location");
@@ -340,11 +344,14 @@ namespace BurgerApp.DataAccess.Migrations
                     b.Navigation("BurgerOrders");
                 });
 
+            modelBuilder.Entity("BurgerApp.Domain.Models.Location", b =>
+                {
+                    b.Navigation("Orders");
+                });
+
             modelBuilder.Entity("BurgerApp.Domain.Models.Order", b =>
                 {
                     b.Navigation("BurgerOrders");
-
-                    b.Navigation("Burgers");
                 });
 #pragma warning restore 612, 618
         }

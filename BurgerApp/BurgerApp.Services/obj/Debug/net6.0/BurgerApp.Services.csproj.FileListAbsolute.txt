@@ -10,3 +10,15 @@ D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\
 D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\refint\BurgerApp.Services.dll
 D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.pdb
 D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\ref\BurgerApp.Services.dll
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Services.deps.json
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Services.dll
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Services.pdb
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.csproj.AssemblyReference.cache
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.AssemblyInfoInputs.cache
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.AssemblyInfo.cs
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.csproj.CoreCompileInputs.cache
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.dll
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\refint\BurgerApp.Services.dll
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.pdb
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\ref\BurgerApp.Services.dll

@@ -6,5 +6,6 @@
         public string Address { get; set; } = string.Empty;
         public TimeSpan OpensAt { get; set; }
         public TimeSpan ClosesAt { get; set; }
+        public List<Order> Orders { get; set; } = new List<Order>();
     }
 }

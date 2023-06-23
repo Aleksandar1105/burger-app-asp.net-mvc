@@ -15,3 +15,20 @@ D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\obj\Debug\net6.0\B
 D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\obj\Debug\net6.0\refint\BurgerApp.Helpers.dll
 D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\obj\Debug\net6.0\BurgerApp.Helpers.pdb
 D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\obj\Debug\net6.0\ref\BurgerApp.Helpers.dll
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\bin\Debug\net6.0\BurgerApp.Helpers.deps.json
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\bin\Debug\net6.0\BurgerApp.Helpers.dll
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\bin\Debug\net6.0\BurgerApp.Helpers.pdb
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\bin\Debug\net6.0\BurgerApp.DataAccess.dll
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\bin\Debug\net6.0\BurgerApp.Domain.dll
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\bin\Debug\net6.0\BurgerApp.DataAccess.pdb
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\bin\Debug\net6.0\BurgerApp.Domain.pdb
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\obj\Debug\net6.0\BurgerApp.Helpers.csproj.AssemblyReference.cache
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\obj\Debug\net6.0\BurgerApp.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\obj\Debug\net6.0\BurgerApp.Helpers.AssemblyInfoInputs.cache
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\obj\Debug\net6.0\BurgerApp.Helpers.AssemblyInfo.cs
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\obj\Debug\net6.0\BurgerApp.Helpers.csproj.CoreCompileInputs.cache
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\obj\Debug\net6.0\BurgerApp.Helpers.csproj.CopyComplete
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\obj\Debug\net6.0\BurgerApp.Helpers.dll
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\obj\Debug\net6.0\refint\BurgerApp.Helpers.dll
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\obj\Debug\net6.0\BurgerApp.Helpers.pdb
+E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\obj\Debug\net6.0\ref\BurgerApp.Helpers.dll
