@@ -3,6 +3,6 @@
 using BurgerApp.ViewModels.BurgerViewModels;
     public interface IBurgerService
     {
-        Task<List<BurgerListViewModel>> GetBurgerForCards();
+        Task<List<BurgerListViewModel>> GetBurgersForCards();
     }
 }

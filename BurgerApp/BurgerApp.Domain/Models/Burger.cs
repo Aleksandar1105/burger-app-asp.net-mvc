@@ -8,10 +8,5 @@
         public bool IsVegan { get; set; }
         public bool HasFries { get; set; }
         public List<BurgerOrder> BurgerOrders { get; set; } = new List<BurgerOrder>();
-
-        public object ToBurgerListViewModel()
-        {
-            throw new NotImplementedException();
-        }
     }
 }

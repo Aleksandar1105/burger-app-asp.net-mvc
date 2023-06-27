@@ -32,3 +32,9 @@ E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\obj\Debu
 E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\obj\Debug\net6.0\refint\BurgerApp.Helpers.dll
 E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\obj\Debug\net6.0\BurgerApp.Helpers.pdb
 E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\obj\Debug\net6.0\ref\BurgerApp.Helpers.dll
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\bin\Debug\net6.0\BurgerApp.Mappers.dll
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\bin\Debug\net6.0\BurgerApp.Services.dll
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\bin\Debug\net6.0\BurgerApp.ViewModels.dll
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\bin\Debug\net6.0\BurgerApp.Services.pdb
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\bin\Debug\net6.0\BurgerApp.Mappers.pdb
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\bin\Debug\net6.0\BurgerApp.ViewModels.pdb

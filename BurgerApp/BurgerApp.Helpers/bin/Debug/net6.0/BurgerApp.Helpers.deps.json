@@ -9,6 +9,7 @@
       "BurgerApp.Helpers/1.0.0": {
         "dependencies": {
           "BurgerApp.DataAccess": "1.0.0",
+          "BurgerApp.Services": "1.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0"
         },
         "runtime": {
@@ -625,6 +626,31 @@
         "runtime": {
           "BurgerApp.Domain.dll": {}
         }
+      },
+      "BurgerApp.Mappers/1.0.0": {
+        "dependencies": {
+          "BurgerApp.Domain": "1.0.0",
+          "BurgerApp.ViewModels": "1.0.0"
+        },
+        "runtime": {
+          "BurgerApp.Mappers.dll": {}
+        }
+      },
+      "BurgerApp.Services/1.0.0": {
+        "dependencies": {
+          "BurgerApp.DataAccess": "1.0.0",
+          "BurgerApp.Domain": "1.0.0",
+          "BurgerApp.Mappers": "1.0.0",
+          "BurgerApp.ViewModels": "1.0.0"
+        },
+        "runtime": {
+          "BurgerApp.Services.dll": {}
+        }
+      },
+      "BurgerApp.ViewModels/1.0.0": {
+        "runtime": {
+          "BurgerApp.ViewModels.dll": {}
+        }
       }
     }
   },
@@ -1074,6 +1100,21 @@
       "sha512": ""
     },
     "BurgerApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BurgerApp.Mappers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BurgerApp.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BurgerApp.ViewModels/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

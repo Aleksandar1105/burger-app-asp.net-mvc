@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.App\\BurgerApp.App.csproj": {}
+    "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.App\\BurgerApp.App.csproj": {}
   },
   "projects": {
-    "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.App\\BurgerApp.App.csproj": {
+    "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.App\\BurgerApp.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.App\\BurgerApp.App.csproj",
+        "projectUniqueName": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.App\\BurgerApp.App.csproj",
         "projectName": "BurgerApp.App",
-        "projectPath": "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.App\\BurgerApp.App.csproj",
+        "projectPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.App\\BurgerApp.App.csproj",
         "packagesPath": "C:\\Users\\Aleksandar\\.nuget\\packages\\",
-        "outputPath": "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.App\\obj\\",
+        "outputPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -27,14 +27,15 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Helpers\\BurgerApp.Helpers.csproj": {
-                "projectPath": "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Helpers\\BurgerApp.Helpers.csproj"
+              "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Helpers\\BurgerApp.Helpers.csproj": {
+                "projectPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Helpers\\BurgerApp.Helpers.csproj"
               }
             }
           }
@@ -54,6 +55,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.14, )"
             }
           },
           "imports": [
@@ -75,18 +80,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj": {
+    "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj",
+        "projectUniqueName": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj",
         "projectName": "BurgerApp.DataAccess",
-        "projectPath": "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj",
+        "projectPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Aleksandar\\.nuget\\packages\\",
-        "outputPath": "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.DataAccess\\obj\\",
+        "outputPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -108,8 +113,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
-                "projectPath": "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj"
+              "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
+                "projectPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj"
               }
             }
           }
@@ -161,18 +166,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
+    "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj",
+        "projectUniqueName": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj",
         "projectName": "BurgerApp.Domain",
-        "projectPath": "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj",
+        "projectPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj",
         "packagesPath": "C:\\Users\\Aleksandar\\.nuget\\packages\\",
-        "outputPath": "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Domain\\obj\\",
+        "outputPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -221,18 +226,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Helpers\\BurgerApp.Helpers.csproj": {
+    "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Helpers\\BurgerApp.Helpers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Helpers\\BurgerApp.Helpers.csproj",
+        "projectUniqueName": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Helpers\\BurgerApp.Helpers.csproj",
         "projectName": "BurgerApp.Helpers",
-        "projectPath": "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Helpers\\BurgerApp.Helpers.csproj",
+        "projectPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Helpers\\BurgerApp.Helpers.csproj",
         "packagesPath": "C:\\Users\\Aleksandar\\.nuget\\packages\\",
-        "outputPath": "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Helpers\\obj\\",
+        "outputPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Helpers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -254,11 +259,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj": {
-                "projectPath": "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj"
+              "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj": {
+                "projectPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj"
               },
-              "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj": {
-                "projectPath": "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj"
+              "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj": {
+                "projectPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj"
               }
             }
           }
@@ -294,18 +299,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj": {
+    "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj",
-        "projectName": "BurgerApp.Services",
-        "projectPath": "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj",
+        "projectUniqueName": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj",
+        "projectName": "BurgerApp.Mappers",
+        "projectPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj",
         "packagesPath": "C:\\Users\\Aleksandar\\.nuget\\packages\\",
-        "outputPath": "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Services\\obj\\",
+        "outputPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Mappers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -327,11 +332,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj": {
-                "projectPath": "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj"
+              "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
+                "projectPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj"
               },
-              "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj": {
-                "projectPath": "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj"
+              "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj": {
+                "projectPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj"
               }
             }
           }
@@ -361,18 +366,91 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj": {
+    "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj",
-        "projectName": "BurgerApp.ViewModels",
-        "projectPath": "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj",
+        "projectUniqueName": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj",
+        "projectName": "BurgerApp.Services",
+        "projectPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj",
         "packagesPath": "C:\\Users\\Aleksandar\\.nuget\\packages\\",
-        "outputPath": "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.ViewModels\\obj\\",
+        "outputPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aleksandar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj": {
+                "projectPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj"
+              },
+              "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
+                "projectPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj"
+              },
+              "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj": {
+                "projectPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj"
+              },
+              "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj": {
+                "projectPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj",
+        "projectName": "BurgerApp.ViewModels",
+        "projectPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\Aleksandar\\.nuget\\packages\\",
+        "outputPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -421,7 +499,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

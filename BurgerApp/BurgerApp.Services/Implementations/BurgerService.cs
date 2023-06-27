@@ -2,6 +2,7 @@
 {
     using BurgerApp.DataAccess.Repositories.Interfaces;
     using BurgerApp.Domain.Models;
+    using BurgerApp.Mappers;
     using BurgerApp.Services.Interfaces;
     using BurgerApp.ViewModels.BurgerViewModels;
     using System.Collections.Generic;
@@ -15,7 +16,7 @@
             this._burgerRepository = _burgerRepository;
         }
 
-        public async Task<List<BurgerListViewModel>> GetBurgerForCards()
+        public async Task<List<BurgerListViewModel>> GetBurgersForCards()
         {
             List<Burger> burgersDb = await _burgerRepository.GetAll();
 
