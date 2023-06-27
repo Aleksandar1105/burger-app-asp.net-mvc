@@ -1071,6 +1071,30 @@
         "runtime": {
           "bin/placeholder/BurgerApp.Domain.dll": {}
         }
+      },
+      "BurgerApp.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BurgerApp.DataAccess": "1.0.0",
+          "BurgerApp.ViewModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BurgerApp.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BurgerApp.Services.dll": {}
+        }
+      },
+      "BurgerApp.ViewModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BurgerApp.ViewModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BurgerApp.ViewModels.dll": {}
+        }
       }
     }
   },
@@ -3250,11 +3274,22 @@
       "type": "project",
       "path": "../BurgerApp.Domain/BurgerApp.Domain.csproj",
       "msbuildProject": "../BurgerApp.Domain/BurgerApp.Domain.csproj"
+    },
+    "BurgerApp.Services/1.0.0": {
+      "type": "project",
+      "path": "../BurgerApp.Services/BurgerApp.Services.csproj",
+      "msbuildProject": "../BurgerApp.Services/BurgerApp.Services.csproj"
+    },
+    "BurgerApp.ViewModels/1.0.0": {
+      "type": "project",
+      "path": "../BurgerApp.ViewModels/BurgerApp.ViewModels.csproj",
+      "msbuildProject": "../BurgerApp.ViewModels/BurgerApp.ViewModels.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "BurgerApp.DataAccess >= 1.0.0",
+      "BurgerApp.Services >= 1.0.0",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 7.0.0"
     ]
   },
@@ -3293,6 +3328,9 @@
           "projectReferences": {
             "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj": {
               "projectPath": "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj"
+            },
+            "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj": {
+              "projectPath": "E:\\Aleksandar\\coding\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj"
             }
           }
         }

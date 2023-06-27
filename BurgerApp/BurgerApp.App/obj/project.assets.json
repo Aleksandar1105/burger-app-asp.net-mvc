@@ -1174,6 +1174,7 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "BurgerApp.DataAccess": "1.0.0",
+          "BurgerApp.Services": "1.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0"
         },
         "compile": {
@@ -1181,6 +1182,30 @@
         },
         "runtime": {
           "bin/placeholder/BurgerApp.Helpers.dll": {}
+        }
+      },
+      "BurgerApp.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BurgerApp.DataAccess": "1.0.0",
+          "BurgerApp.ViewModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BurgerApp.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BurgerApp.Services.dll": {}
+        }
+      },
+      "BurgerApp.ViewModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BurgerApp.ViewModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BurgerApp.ViewModels.dll": {}
         }
       }
     }
@@ -3517,6 +3542,16 @@
       "type": "project",
       "path": "../BurgerApp.Helpers/BurgerApp.Helpers.csproj",
       "msbuildProject": "../BurgerApp.Helpers/BurgerApp.Helpers.csproj"
+    },
+    "BurgerApp.Services/1.0.0": {
+      "type": "project",
+      "path": "../BurgerApp.Services/BurgerApp.Services.csproj",
+      "msbuildProject": "../BurgerApp.Services/BurgerApp.Services.csproj"
+    },
+    "BurgerApp.ViewModels/1.0.0": {
+      "type": "project",
+      "path": "../BurgerApp.ViewModels/BurgerApp.ViewModels.csproj",
+      "msbuildProject": "../BurgerApp.ViewModels/BurgerApp.ViewModels.csproj"
     }
   },
   "projectFileDependencyGroups": {

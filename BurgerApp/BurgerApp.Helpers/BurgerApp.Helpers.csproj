@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BurgerApp.DataAccess\BurgerApp.DataAccess.csproj" />
+    <ProjectReference Include="..\BurgerApp.Services\BurgerApp.Services.csproj" />
   </ItemGroup>
 
 </Project>

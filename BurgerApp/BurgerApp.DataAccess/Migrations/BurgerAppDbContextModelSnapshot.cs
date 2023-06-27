@@ -100,72 +100,74 @@ namespace BurgerApp.DataAccess.Migrations
 
             modelBuilder.Entity("BurgerApp.Domain.Models.BurgerOrder", b =>
                 {
-                    b.Property<int>("OrderId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("BurgerId")
-                        .HasColumnType("int");
-
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.HasKey("OrderId", "BurgerId");
+                    b.Property<int>("BurgerId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("OrderId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
 
                     b.HasIndex("BurgerId");
+
+                    b.HasIndex("OrderId");
 
                     b.ToTable("BurgerOrder");
 
                     b.HasData(
                         new
                         {
-                            OrderId = 1,
+                            Id = 1,
                             BurgerId = 1,
-                            Id = 1
+                            OrderId = 1
                         },
                         new
                         {
-                            OrderId = 1,
+                            Id = 2,
                             BurgerId = 2,
-                            Id = 2
+                            OrderId = 1
                         },
                         new
                         {
-                            OrderId = 2,
+                            Id = 3,
                             BurgerId = 3,
-                            Id = 2
+                            OrderId = 2
                         },
                         new
                         {
-                            OrderId = 2,
+                            Id = 4,
                             BurgerId = 4,
-                            Id = 3
+                            OrderId = 2
                         },
                         new
                         {
-                            OrderId = 3,
+                            Id = 5,
                             BurgerId = 1,
-                            Id = 4
+                            OrderId = 3
                         },
                         new
                         {
-                            OrderId = 3,
+                            Id = 6,
                             BurgerId = 5,
-                            Id = 5
+                            OrderId = 3
                         },
                         new
                         {
-                            OrderId = 4,
+                            Id = 7,
                             BurgerId = 2,
-                            Id = 6
+                            OrderId = 4
                         },
                         new
                         {
-                            OrderId = 5,
+                            Id = 8,
                             BurgerId = 3,
-                            Id = 7
+                            OrderId = 5
                         });
                 });
 
@@ -314,13 +316,13 @@ namespace BurgerApp.DataAccess.Migrations
                     b.HasOne("BurgerApp.Domain.Models.Burger", "Burger")
                         .WithMany("BurgerOrders")
                         .HasForeignKey("BurgerId")
-                        .OnDelete(DeleteBehavior.Restrict)
+                        .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("BurgerApp.Domain.Models.Order", "Order")
                         .WithMany("BurgerOrders")
                         .HasForeignKey("OrderId")
-                        .OnDelete(DeleteBehavior.Restrict)
+                        .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("Burger");
@@ -333,7 +335,7 @@ namespace BurgerApp.DataAccess.Migrations
                     b.HasOne("BurgerApp.Domain.Models.Location", "Location")
                         .WithMany("Orders")
                         .HasForeignKey("LocationId")
-                        .OnDelete(DeleteBehavior.Restrict)
+                        .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("Location");
