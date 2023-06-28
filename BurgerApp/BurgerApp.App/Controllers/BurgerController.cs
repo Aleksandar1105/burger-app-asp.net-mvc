@@ -1,7 +1,7 @@
 ﻿namespace BurgerApp.App.Controllers
 {
-    using BurgerApp.Services.Interfaces;
-    using Microsoft.AspNetCore.Mvc;
+using BurgerApp.Services.Interfaces;
+using Microsoft.AspNetCore.Mvc;
     public class BurgerController : Controller
     {
         private IBurgerService _burgerService;

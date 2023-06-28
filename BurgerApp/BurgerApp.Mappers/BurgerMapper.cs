@@ -1,7 +1,7 @@
 ﻿namespace BurgerApp.Mappers
 {
-using BurgerApp.Domain.Models;
-using BurgerApp.ViewModels.BurgerViewModels;
+    using BurgerApp.Domain.Models;
+    using BurgerApp.ViewModels.BurgerViewModels;
     public static class BurgerMapper
     {
         public static BurgerListViewModel ToBurgerListViewModel(this Burger burger)

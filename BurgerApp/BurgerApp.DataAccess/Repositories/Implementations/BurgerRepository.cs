@@ -21,9 +21,10 @@
 
             if (burgerDb == null)
             {
-                throw new Exception($"Item with Id:{id} not found.");
+                throw new Exception($"Item with Id: {id} not found.");
             }
-            _dbContext.Burgers .Remove(burgerDb);
+
+            _dbContext.Burgers.Remove(burgerDb);
             await _dbContext.SaveChangesAsync();
 
             return burgerDb.Id;
@@ -36,7 +37,7 @@
 
         public async Task<Burger> GetById(int id)
         {
-            return await _dbContext.Burgers.FirstOrDefaultAsync(b=>b.Id == id);
+            return await _dbContext.Burgers.FirstOrDefaultAsync(b => b.Id == id);
         }
 
         public async Task Insert(Burger entity)

@@ -22,3 +22,15 @@ E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Shared\obj\Debug
 E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Shared\obj\Debug\net6.0\refint\BurgerApp.Shared.dll
 E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Shared\obj\Debug\net6.0\BurgerApp.Shared.pdb
 E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Shared\obj\Debug\net6.0\ref\BurgerApp.Shared.dll
+C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Shared\bin\Debug\net6.0\BurgerApp.Shared.deps.json
+C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Shared\bin\Debug\net6.0\BurgerApp.Shared.dll
+C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Shared\bin\Debug\net6.0\BurgerApp.Shared.pdb
+C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Shared\obj\Debug\net6.0\BurgerApp.Shared.csproj.AssemblyReference.cache
+C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Shared\obj\Debug\net6.0\BurgerApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Shared\obj\Debug\net6.0\BurgerApp.Shared.AssemblyInfoInputs.cache
+C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Shared\obj\Debug\net6.0\BurgerApp.Shared.AssemblyInfo.cs
+C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Shared\obj\Debug\net6.0\BurgerApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Shared\obj\Debug\net6.0\BurgerApp.Shared.dll
+C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Shared\obj\Debug\net6.0\refint\BurgerApp.Shared.dll
+C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Shared\obj\Debug\net6.0\BurgerApp.Shared.pdb
+C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Shared\obj\Debug\net6.0\ref\BurgerApp.Shared.dll

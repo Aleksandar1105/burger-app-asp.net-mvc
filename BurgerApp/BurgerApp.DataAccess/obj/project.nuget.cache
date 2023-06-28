@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0nzXbhQP6xLiBo7DXJ4SYifYWbZfhMDLmZOmjGk9reAE3WK1S3gmgeI6Q2tnkKDNApAAZVK0OXPjK6KpMus3FQ==",
+  "dgSpecHash": "/rRZDiM2WRFXQemLaJ8ZxxAMO+qmxFy/vPmRlcRaVV0fwpPCC81N7tk5uXDOJMUZjINPT+A5X45yayBn1ByiFQ==",
   "success": true,
-  "projectFilePath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Aleksandar\\Desktop\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aleksandar\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Aleksandar\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

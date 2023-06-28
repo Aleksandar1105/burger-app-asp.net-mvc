@@ -22,3 +22,15 @@ E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Domain\obj\Debug
 E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\refint\BurgerApp.Domain.dll
 E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.pdb
 E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\ref\BurgerApp.Domain.dll
+C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.deps.json
+C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.dll
+C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.pdb
+C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.AssemblyInfo.cs
+C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.dll
+C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\refint\BurgerApp.Domain.dll
+C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.pdb
+C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\ref\BurgerApp.Domain.dll

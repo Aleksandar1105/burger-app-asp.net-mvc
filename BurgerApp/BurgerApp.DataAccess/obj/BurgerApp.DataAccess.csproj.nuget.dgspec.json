@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj": {}
+    "C:\\Users\\Aleksandar\\Desktop\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj": {}
   },
   "projects": {
-    "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj": {
+    "C:\\Users\\Aleksandar\\Desktop\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Aleksandar\\Desktop\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj",
         "projectName": "BurgerApp.DataAccess",
-        "projectPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj",
+        "projectPath": "C:\\Users\\Aleksandar\\Desktop\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Aleksandar\\.nuget\\packages\\",
-        "outputPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Aleksandar\\Desktop\\BurgerApp\\BurgerApp.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
-                "projectPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj"
+              "C:\\Users\\Aleksandar\\Desktop\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\Aleksandar\\Desktop\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
+    "C:\\Users\\Aleksandar\\Desktop\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Aleksandar\\Desktop\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj",
         "projectName": "BurgerApp.Domain",
-        "projectPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj",
+        "projectPath": "C:\\Users\\Aleksandar\\Desktop\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj",
         "packagesPath": "C:\\Users\\Aleksandar\\.nuget\\packages\\",
-        "outputPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Aleksandar\\Desktop\\BurgerApp\\BurgerApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

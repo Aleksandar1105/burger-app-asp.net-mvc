@@ -639,7 +639,6 @@
       "BurgerApp.Services/1.0.0": {
         "dependencies": {
           "BurgerApp.DataAccess": "1.0.0",
-          "BurgerApp.Domain": "1.0.0",
           "BurgerApp.Mappers": "1.0.0",
           "BurgerApp.ViewModels": "1.0.0"
         },
