@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aleksandar\\Desktop\\BurgerApp\\BurgerApp.Shared\\BurgerApp.Shared.csproj": {}
+    "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Shared\\BurgerApp.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aleksandar\\Desktop\\BurgerApp\\BurgerApp.Shared\\BurgerApp.Shared.csproj": {
+    "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Shared\\BurgerApp.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aleksandar\\Desktop\\BurgerApp\\BurgerApp.Shared\\BurgerApp.Shared.csproj",
+        "projectUniqueName": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Shared\\BurgerApp.Shared.csproj",
         "projectName": "BurgerApp.Shared",
-        "projectPath": "C:\\Users\\Aleksandar\\Desktop\\BurgerApp\\BurgerApp.Shared\\BurgerApp.Shared.csproj",
+        "projectPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Shared\\BurgerApp.Shared.csproj",
         "packagesPath": "C:\\Users\\Aleksandar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aleksandar\\Desktop\\BurgerApp\\BurgerApp.Shared\\obj\\",
+        "outputPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

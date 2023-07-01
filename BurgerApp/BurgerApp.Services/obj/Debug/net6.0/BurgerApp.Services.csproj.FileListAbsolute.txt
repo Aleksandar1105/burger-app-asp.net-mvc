@@ -43,3 +43,12 @@ C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\Burger
 C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\refint\BurgerApp.Services.dll
 C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.pdb
 C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\ref\BurgerApp.Services.dll
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.DataAccess.dll
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Domain.dll
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Mappers.dll
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.ViewModels.dll
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.DataAccess.pdb
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Mappers.pdb
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.ViewModels.pdb
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Domain.pdb
+D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.csproj.CopyComplete
