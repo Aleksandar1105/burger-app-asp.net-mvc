@@ -1,11 +1,17 @@
 ﻿@model BurgerListViewModel
 
-<div class="card" style="width: 18rem;">
-    <img class="card-img-top" src="" alt="Card image cap">
+<div class="card flex-fill ml text-center">
+    <img class="card-img-top" src="@Model.ImgUrl" alt="Card image cap">
     <div class="card-body">
         <h5 class="card-title">@Model.Name</h5>
-        <p class="card-text">Not defined</p>
+        <h4 class="card-text">Price: @Model.Price</h4>
     </div>
-    <br />
-    <a type="button" class="btn btn-primary" asp-action="Details" asp-route-identifier="@Model.Id">Details</a>
+    <div class="card-footer d-flex justify-content-between">
+        <div class="btn-group flex-fill">
+            <a type="button" class="btn btn-primary flex-fill" asp-action="Details" asp-route-id="@Model.Id">Details</a>
+            <a class="btn btn-danger flex-fill" asp-area="" asp-action="Delete" asp-route-id="@Model.Id">Delete</a>
+            <a class="btn btn-warning flex-fill" asp-area="" asp-action="Edit" asp-route-id="@Model.Id">Edit</a>
+        </div>
+    </div>
 </div>
+

@@ -1,0 +1,35 @@
+﻿@model BurgerDetailsViewModel
+
+<div class="container d-flex justify-content-center align-items-center" style="height: 100vh;">
+    <div class="card p-4 text-center">
+        <h2 class="mb-4">Burger Details:</h2>
+        <div class="row">
+            <div class="col-md-6 offset-md-3">
+                <img src="@Model.ImageUrl" alt="Burger Image" class="img-fluid mb-4">
+                <h4 class="mb-3">@Model.Name</h4>
+                @if (Model.IsVegetarian)
+                {
+                    <h5 class="text-primary">Vegetarian</h5>
+                }
+                else if (Model.IsVegan)
+                {
+                    <h5 class="text-primary">Vegan</h5>
+                }
+                else
+                {
+                    <h5 class="text-danger">Not Vegetarian</h5>
+                    <h5 class="text-danger">Not Vegan</h5>
+                }
+                @if (Model.HasFries)
+                {
+                    <h5 class="text-success">Burger with fries</h5>
+                }
+                else
+                {
+                    <h5 class="text-danger">Burger without fries</h5>
+                }
+                <h5>Price: @Model.Price</h5>
+            </div>
+        </div>
+    </div>
+</div>

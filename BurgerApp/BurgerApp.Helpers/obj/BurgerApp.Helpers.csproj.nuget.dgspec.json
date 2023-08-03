@@ -388,7 +388,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
+                "projectPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

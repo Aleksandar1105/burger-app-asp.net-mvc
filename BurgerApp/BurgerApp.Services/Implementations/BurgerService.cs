@@ -16,6 +16,56 @@
             this._burgerRepository = _burgerRepository;
         }
 
+        public async Task CreateBurger(BurgerViewModel burgerViewModel)
+        {
+            await _burgerRepository.Insert(burgerViewModel.ToBurger());
+        }
+
+        public async Task<int> DeleteBurgerById(int id)
+        {
+            return await _burgerRepository.DeleteById(id);
+        }
+
+        public async Task EditBurger(BurgerViewModel burgerViewModel)
+        {
+            Burger burgerDb = await _burgerRepository.GetById(burgerViewModel.Id);
+
+            if (burgerDb == null)
+            {
+                throw new Exception("Burger not found!");
+            }
+
+            burgerDb.Name = burgerViewModel.Name;
+            burgerDb.ImageUrl = burgerViewModel.ImageUrl;
+            burgerDb.IsVegetarian = burgerViewModel.IsVegetarian;
+            burgerDb.IsVegan= burgerViewModel.IsVegan;
+            burgerDb.HasFries = burgerViewModel.HasFries;
+            burgerDb.Price = burgerViewModel.Price;
+
+            await _burgerRepository.Update(burgerDb);
+        }
+
+        public async Task<BurgerDetailsViewModel> GetBurgerDetails(int id)
+        {
+            Burger burgerDb = await _burgerRepository.GetById(id);
+
+            return burgerDb.ToBurgerDetailsViewModel();
+        }
+
+        public async Task<BurgerViewModel> GetBurgerForEditing(int id)
+        {
+            Burger burger = await _burgerRepository.GetById(id);
+
+            BurgerViewModel burgerViewModel = burger.ToBurgerViewModel();
+
+            if(burger == null)
+            {
+                throw new Exception("Burger not found");
+            }
+
+            return burgerViewModel;
+        }
+
         public async Task<List<BurgerListViewModel>> GetBurgersForCards()
         {
             List<Burger> burgersDb = await _burgerRepository.GetAll();

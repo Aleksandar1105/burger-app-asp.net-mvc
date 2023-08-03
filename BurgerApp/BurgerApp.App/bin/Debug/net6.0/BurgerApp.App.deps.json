@@ -738,6 +738,9 @@
         }
       },
       "BurgerApp.ViewModels/1.0.0": {
+        "dependencies": {
+          "BurgerApp.Domain": "1.0.0"
+        },
         "runtime": {
           "BurgerApp.ViewModels.dll": {}
         }

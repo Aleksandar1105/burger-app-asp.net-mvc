@@ -33,6 +33,10 @@ namespace BurgerApp.DataAccess.Migrations
                     b.Property<bool>("HasFries")
                         .HasColumnType("bit");
 
+                    b.Property<string>("ImageUrl")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<bool>("IsVegan")
                         .HasColumnType("bit");
 
@@ -55,6 +59,7 @@ namespace BurgerApp.DataAccess.Migrations
                         {
                             Id = 1,
                             HasFries = true,
+                            ImageUrl = "https://rhubarbandcod.com/wp-content/uploads/2022/06/The-Classic-Cheeseburger-1-500x500.jpg",
                             IsVegan = false,
                             IsVegetarian = false,
                             Name = "Classic Cheeseburger",
@@ -64,6 +69,7 @@ namespace BurgerApp.DataAccess.Migrations
                         {
                             Id = 2,
                             HasFries = true,
+                            ImageUrl = "https://www.kitchensanctuary.com/wp-content/uploads/2019/05/Cheesy-Veggie-Burger-Square-1200-500x500.jpg",
                             IsVegan = false,
                             IsVegetarian = true,
                             Name = "Veggie Burger",
@@ -73,6 +79,7 @@ namespace BurgerApp.DataAccess.Migrations
                         {
                             Id = 3,
                             HasFries = true,
+                            ImageUrl = "https://www.vegangrocerystore.com.au/cdn/shop/products/beyondburger_d0846b9c-a82c-4eaa-9f19-ee0be12d6bbc_800x.jpg?v=1624689743",
                             IsVegan = true,
                             IsVegetarian = false,
                             Name = "Beyond Burger",
@@ -82,6 +89,7 @@ namespace BurgerApp.DataAccess.Migrations
                         {
                             Id = 4,
                             HasFries = true,
+                            ImageUrl = "https://simply-delicious-food.com/wp-content/uploads/2015/07/Bacon-and-cheese-burgers-3.jpg",
                             IsVegan = false,
                             IsVegetarian = false,
                             Name = "Bacon Cheeseburger",
@@ -91,6 +99,7 @@ namespace BurgerApp.DataAccess.Migrations
                         {
                             Id = 5,
                             HasFries = false,
+                            ImageUrl = "https://d2lswn7b0fl4u2.cloudfront.net/photos/pg-mushroom-swiss-burger-1612796532.jpg",
                             IsVegan = false,
                             IsVegetarian = false,
                             Name = "Mushroom Swiss Burger",

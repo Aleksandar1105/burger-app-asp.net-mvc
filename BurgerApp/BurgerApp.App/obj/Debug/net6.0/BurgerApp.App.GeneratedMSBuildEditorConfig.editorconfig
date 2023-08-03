@@ -16,6 +16,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.App
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/8. SEDC/BURGER-APP-ASP.NET-MVC/BurgerApp/BurgerApp.App/Views/Burger/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVyZ2VyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/8. SEDC/BURGER-APP-ASP.NET-MVC/BurgerApp/BurgerApp.App/Views/Burger/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVyZ2VyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/8. SEDC/BURGER-APP-ASP.NET-MVC/BurgerApp/BurgerApp.App/Views/Burger/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVyZ2VyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/8. SEDC/BURGER-APP-ASP.NET-MVC/BurgerApp/BurgerApp.App/Views/Burger/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVyZ2VyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/8. SEDC/BURGER-APP-ASP.NET-MVC/BurgerApp/BurgerApp.App/Views/Burger/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVyZ2VyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

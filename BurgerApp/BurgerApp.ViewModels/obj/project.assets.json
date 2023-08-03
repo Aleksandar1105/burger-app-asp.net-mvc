@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "BurgerApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BurgerApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BurgerApp.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BurgerApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../BurgerApp.Domain/BurgerApp.Domain.csproj",
+      "msbuildProject": "../BurgerApp.Domain/BurgerApp.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "BurgerApp.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Aleksandar\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
+              "projectPath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

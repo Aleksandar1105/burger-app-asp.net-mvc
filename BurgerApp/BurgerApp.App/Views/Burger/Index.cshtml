@@ -1,13 +1,17 @@
 ﻿@model List<BurgerListViewModel>
 
-<h2>List of burgers:</h2>
+<h2 class="text-center mt-3">List of burgers:</h2>
 <br />
-<div class="card-container">
+<div class="card-container row m-4">
     @foreach (var burger in @Model)
     {
-        <partial name="~/Views/Shared/Partials/_BurgerCardPartial.cshtml" for="@burger" />
+        <div class="col-3 mb-4">
+            <partial name="~/Views/Shared/Partials/_BurgerCardPartial.cshtml" for="@burger" />
+        </div>
     }
 </div>
 <br />
-<a class="btn btn-warning" asp-area="" asp-controller="Home" asp-action="Index">Home page</a>
-
+<div class="d-flex justify-content-center my-3">
+    <a class="btn btn-warning mx-2" asp-area="" asp-controller="Home" asp-action="Index">Home page</a>
+    <a class="btn btn-warning mx-2" asp-area="" asp-controller="Burger" asp-action="Create">Create new burger</a>
+</div>

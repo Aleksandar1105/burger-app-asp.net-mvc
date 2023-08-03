@@ -33,11 +33,11 @@
                 .HasForeignKey(x => x.LocationId);
 
             modelBuilder.Entity<Burger>().HasData(
-                new Burger { Id = 1, Name = "Classic Cheeseburger", Price = 180, IsVegetarian = false, IsVegan = false, HasFries = true },
-                new Burger { Id = 2, Name = "Veggie Burger", Price = 200, IsVegetarian = true, IsVegan = false, HasFries = true },
-                new Burger { Id = 3, Name = "Beyond Burger", Price = 220, IsVegetarian = false, IsVegan = true, HasFries = true },
-                new Burger { Id = 4, Name = "Bacon Cheeseburger", Price = 240, IsVegetarian = false, IsVegan = false, HasFries = true },
-                new Burger { Id = 5, Name = "Mushroom Swiss Burger", Price = 260, IsVegetarian = false, IsVegan = false, HasFries = false });
+                new Burger { Id = 1, Name = "Classic Cheeseburger", Price = 180, IsVegetarian = false, IsVegan = false, HasFries = true, ImageUrl = "https://rhubarbandcod.com/wp-content/uploads/2022/06/The-Classic-Cheeseburger-1-500x500.jpg" },
+                new Burger { Id = 2, Name = "Veggie Burger", Price = 200, IsVegetarian = true, IsVegan = false, HasFries = true, ImageUrl = "https://www.kitchensanctuary.com/wp-content/uploads/2019/05/Cheesy-Veggie-Burger-Square-1200-500x500.jpg" },
+                new Burger { Id = 3, Name = "Beyond Burger", Price = 220, IsVegetarian = false, IsVegan = true, HasFries = true, ImageUrl = "https://www.vegangrocerystore.com.au/cdn/shop/products/beyondburger_d0846b9c-a82c-4eaa-9f19-ee0be12d6bbc_800x.jpg?v=1624689743" },
+                new Burger { Id = 4, Name = "Bacon Cheeseburger", Price = 240, IsVegetarian = false, IsVegan = false, HasFries = true, ImageUrl = "https://simply-delicious-food.com/wp-content/uploads/2015/07/Bacon-and-cheese-burgers-3.jpg" },
+                new Burger { Id = 5, Name = "Mushroom Swiss Burger", Price = 260, IsVegetarian = false, IsVegan = false, HasFries = false, ImageUrl = "https://d2lswn7b0fl4u2.cloudfront.net/photos/pg-mushroom-swiss-burger-1612796532.jpg" });
 
             modelBuilder.Entity<Order>().HasData(
                 new Order { Id = 1, FullName = "John Doe", Address = "123 Main St", IsDelivered = false, LocationId = 1 },
