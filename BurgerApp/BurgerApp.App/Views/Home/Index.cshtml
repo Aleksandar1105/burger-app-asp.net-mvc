@@ -1,8 +1,17 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
+﻿@model List<BurgerListViewModel>
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h2 class="display-4">Welcome to Burger Shop</h2>
+    <hr />
+    <h3>Most Popular Burger</h3>
+    @if (Model != null && Model.Count > 0)
+    {
+        <h4>Name: @Model[0].Name</h4>
+        <p>Price: @Model[0].Price</p>
+        <img src="@Model[0].ImgUrl" alt="Most Popular Burger" />
+    }
+    else
+    {
+        <p>No data available for the most popular burger.</p>
+    }
 </div>

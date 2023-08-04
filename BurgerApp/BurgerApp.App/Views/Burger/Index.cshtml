@@ -1,17 +1,25 @@
 ﻿@model List<BurgerListViewModel>
 
-<h2 class="text-center mt-3">List of burgers:</h2>
-<br />
-<div class="card-container row m-4">
-    @foreach (var burger in @Model)
-    {
-        <div class="col-3 mb-4">
-            <partial name="~/Views/Shared/Partials/_BurgerCardPartial.cshtml" for="@burger" />
+<div class="card shadow border-0 my-4">
+
+    <div class="card-header bg-secondary bg-gradient ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2">List of Burgers</h2>
+            </div>
         </div>
-    }
+    </div>
+
+    <div class="row pb-3 m-1 mt-3">
+        @foreach (var burger in @Model)
+        {
+
+            <partial name="~/Views/Shared/Partials/_BurgerCardPartial.cshtml" for="@burger" />
+
+        }
+    </div>
 </div>
-<br />
-<div class="d-flex justify-content-center my-3">
-    <a class="btn btn-warning mx-2" asp-area="" asp-controller="Home" asp-action="Index">Home page</a>
-    <a class="btn btn-warning mx-2" asp-area="" asp-controller="Burger" asp-action="Create">Create new burger</a>
+<div class="w-100 btn-group mb-3" role="group">
+    <a class="btn btn-warning bg-gradient border-0 form-control mx-5" asp-area="" asp-controller="Home" asp-action="Index">Home page</a>
+    <a class="btn btn-success bg-gradient border-0 form-control mx-5" asp-area="" asp-controller="Burger" asp-action="Create">Create new burger</a>
 </div>

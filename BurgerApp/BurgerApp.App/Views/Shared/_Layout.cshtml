@@ -12,7 +12,10 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">BurgerApp.App</a>
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img src="https://static.vecteezy.com/system/resources/previews/022/638/776/original/one-continuous-line-drawing-of-fresh-delicious-american-burger-restaurant-logo-emblem-fast-food-beef-burger-cafe-shop-logotype-template-concept-modern-single-line-draw-design-vector-illustration-png.png" width="40px" alt="Logo" />
+                    <span>Burger Shop</span>
+                </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -23,10 +26,10 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="AboutUs">About Us</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Burger" asp-action="Index">Menu</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Burger" asp-action="Index">Burgers Menu</a>
                         </li>
                     </ul>
                 </div>
@@ -39,7 +42,7 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
+    <footer class="border-top footer text-muted text-center">
         <div class="container">
             &copy; 2023 - BurgerApp.App - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>

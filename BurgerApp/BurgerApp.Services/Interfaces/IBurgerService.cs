@@ -1,5 +1,6 @@
 ﻿namespace BurgerApp.Services.Interfaces
 {
+    using BurgerApp.Domain.Models;
     using BurgerApp.ViewModels.BurgerViewModels;
     public interface IBurgerService
     {

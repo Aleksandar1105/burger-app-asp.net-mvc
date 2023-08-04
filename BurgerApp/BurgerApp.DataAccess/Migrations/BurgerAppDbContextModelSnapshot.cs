@@ -52,7 +52,7 @@ namespace BurgerApp.DataAccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Burgers");
+                    b.ToTable("Burgers", (string)null);
 
                     b.HasData(
                         new
@@ -127,7 +127,7 @@ namespace BurgerApp.DataAccess.Migrations
 
                     b.HasIndex("OrderId");
 
-                    b.ToTable("BurgerOrder");
+                    b.ToTable("BurgerOrder", (string)null);
 
                     b.HasData(
                         new
@@ -204,7 +204,7 @@ namespace BurgerApp.DataAccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Locations");
+                    b.ToTable("Locations", (string)null);
 
                     b.HasData(
                         new
@@ -275,7 +275,7 @@ namespace BurgerApp.DataAccess.Migrations
 
                     b.HasIndex("LocationId");
 
-                    b.ToTable("Orders");
+                    b.ToTable("Orders", (string)null);
 
                     b.HasData(
                         new
