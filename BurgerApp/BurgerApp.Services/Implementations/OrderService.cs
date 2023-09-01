@@ -14,7 +14,7 @@ namespace BurgerApp.Services.Implementations
         {
             _orderRepository = orderRepository;
         }
-        void IOrderService.Delete(int id)
+        public void Delete(int id)
         {
             var existingOrder = _orderRepository.GetById(id);
 
@@ -26,7 +26,7 @@ namespace BurgerApp.Services.Implementations
             _orderRepository.DeleteById(existingOrder.Id);
         }
 
-        async Task<OrderViewModel> IOrderService.Details(int id)
+        public async Task<OrderViewModel> Details(int id)
         {
             var order = await _orderRepository.GetById(id);
 
@@ -38,14 +38,14 @@ namespace BurgerApp.Services.Implementations
             return order.ToViewModel();
         }
 
-        async Task<List<OrderViewModel>> IOrderService.GetAll()
+        public async Task<List<OrderViewModel>> GetAll()
         {
             List<Order> ordersDb = await _orderRepository.GetAll();
 
             return ordersDb.Select(x => x.ToViewModel()).ToList();
         }
 
-        async Task<int> IOrderService.Save(OrderViewModel model)
+        public async Task<int> Save(OrderViewModel model)
         {
             var order = new Order()
             {

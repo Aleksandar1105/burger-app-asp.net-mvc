@@ -15,6 +15,6 @@ namespace BurgerApp.ViewModels.BurgerViewModels
         public bool IsVegan { get; set; }
         [Display(Name=("With Fries"))]
         public bool HasFries { get; set; }
-        public string ImageUrl { get; set; } = string.Empty;
+        public string? ImageUrl { get; set; }
     }
 }

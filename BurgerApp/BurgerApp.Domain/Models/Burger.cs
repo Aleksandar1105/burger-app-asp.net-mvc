@@ -7,7 +7,7 @@
         public bool IsVegetarian { get; set; }
         public bool IsVegan { get; set; }
         public bool HasFries { get; set; }
-        public string ImageUrl { get; set; }
+        public string? ImageUrl { get; set; }
         public List<BurgerOrder> BurgerOrders { get; set; } = new List<BurgerOrder>();
     }
 }
