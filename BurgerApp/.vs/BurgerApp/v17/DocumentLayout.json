@@ -1,0 +1,669 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D4C8F-FCD9-4A92-A70D-04DACC35290E}|BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.dataaccess\\repositories\\implementations\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8D4C8F-FCD9-4A92-A70D-04DACC35290E}|BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj|solutionrelative:burgerapp.dataaccess\\repositories\\implementations\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D4C8F-FCD9-4A92-A70D-04DACC35290E}|BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.dataaccess\\repositories\\implementations\\burgerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8D4C8F-FCD9-4A92-A70D-04DACC35290E}|BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj|solutionrelative:burgerapp.dataaccess\\repositories\\implementations\\burgerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D4C8F-FCD9-4A92-A70D-04DACC35290E}|BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.dataaccess\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8D4C8F-FCD9-4A92-A70D-04DACC35290E}|BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj|solutionrelative:burgerapp.dataaccess\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F967FBF-A627-4590-9038-325B608A5568}|BurgerApp.Services\\BurgerApp.Services.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.services\\implementations\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F967FBF-A627-4590-9038-325B608A5568}|BurgerApp.Services\\BurgerApp.Services.csproj|solutionrelative:burgerapp.services\\implementations\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.app\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|solutionrelative:burgerapp.app\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D4C8F-FCD9-4A92-A70D-04DACC35290E}|BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.dataaccess\\datacontext\\burgerappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8D4C8F-FCD9-4A92-A70D-04DACC35290E}|BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj|solutionrelative:burgerapp.dataaccess\\datacontext\\burgerappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DFA9E9-9E02-4FF1-8FB7-AD5A907508AA}|BurgerApp.Helpers\\BurgerApp.Helpers.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.helpers\\dependencyinjectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DFA9E9-9E02-4FF1-8FB7-AD5A907508AA}|BurgerApp.Helpers\\BurgerApp.Helpers.csproj|solutionrelative:burgerapp.helpers\\dependencyinjectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F967FBF-A627-4590-9038-325B608A5568}|BurgerApp.Services\\BurgerApp.Services.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F967FBF-A627-4590-9038-325B608A5568}|BurgerApp.Services\\BurgerApp.Services.csproj|solutionrelative:burgerapp.services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.app\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|solutionrelative:burgerapp.app\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.app\\views\\order\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|solutionrelative:burgerapp.app\\views\\order\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.app\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|solutionrelative:burgerapp.app\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.app\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|solutionrelative:burgerapp.app\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.app\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|solutionrelative:burgerapp.app\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|solutionrelative:burgerapp.app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E90E1B-D7C8-46FF-B498-8E779D7523B1}|BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.viewmodels\\orderviewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E90E1B-D7C8-46FF-B498-8E779D7523B1}|BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj|solutionrelative:burgerapp.viewmodels\\orderviewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FFDC91-81B5-4ECE-8A5E-9C1969DE427F}|BurgerApp.Domain\\BurgerApp.Domain.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FFDC91-81B5-4ECE-8A5E-9C1969DE427F}|BurgerApp.Domain\\BurgerApp.Domain.csproj|solutionrelative:burgerapp.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|solutionrelative:burgerapp.app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|solutionrelative:burgerapp.app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F967FBF-A627-4590-9038-325B608A5568}|BurgerApp.Services\\BurgerApp.Services.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.services\\implementations\\burgerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F967FBF-A627-4590-9038-325B608A5568}|BurgerApp.Services\\BurgerApp.Services.csproj|solutionrelative:burgerapp.services\\implementations\\burgerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F967FBF-A627-4590-9038-325B608A5568}|BurgerApp.Services\\BurgerApp.Services.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.services\\interfaces\\iburgerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F967FBF-A627-4590-9038-325B608A5568}|BurgerApp.Services\\BurgerApp.Services.csproj|solutionrelative:burgerapp.services\\interfaces\\iburgerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.app\\views\\shared\\partials\\_burgercardpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|solutionrelative:burgerapp.app\\views\\shared\\partials\\_burgercardpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.app\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|solutionrelative:burgerapp.app\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.app\\views\\burger\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|solutionrelative:burgerapp.app\\views\\burger\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.app\\views\\burger\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|solutionrelative:burgerapp.app\\views\\burger\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.app\\views\\burger\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|solutionrelative:burgerapp.app\\views\\burger\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.app\\views\\burger\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|solutionrelative:burgerapp.app\\views\\burger\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.app\\views\\burger\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|solutionrelative:burgerapp.app\\views\\burger\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.app\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|solutionrelative:burgerapp.app\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FFDC91-81B5-4ECE-8A5E-9C1969DE427F}|BurgerApp.Domain\\BurgerApp.Domain.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.domain\\models\\burgerorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FFDC91-81B5-4ECE-8A5E-9C1969DE427F}|BurgerApp.Domain\\BurgerApp.Domain.csproj|solutionrelative:burgerapp.domain\\models\\burgerorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FFDC91-81B5-4ECE-8A5E-9C1969DE427F}|BurgerApp.Domain\\BurgerApp.Domain.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.domain\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FFDC91-81B5-4ECE-8A5E-9C1969DE427F}|BurgerApp.Domain\\BurgerApp.Domain.csproj|solutionrelative:burgerapp.domain\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FFDC91-81B5-4ECE-8A5E-9C1969DE427F}|BurgerApp.Domain\\BurgerApp.Domain.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.domain\\models\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FFDC91-81B5-4ECE-8A5E-9C1969DE427F}|BurgerApp.Domain\\BurgerApp.Domain.csproj|solutionrelative:burgerapp.domain\\models\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FFDC91-81B5-4ECE-8A5E-9C1969DE427F}|BurgerApp.Domain\\BurgerApp.Domain.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.domain\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FFDC91-81B5-4ECE-8A5E-9C1969DE427F}|BurgerApp.Domain\\BurgerApp.Domain.csproj|solutionrelative:burgerapp.domain\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E90E1B-D7C8-46FF-B498-8E779D7523B1}|BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.viewmodels\\burgerviewmodels\\burgerdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E90E1B-D7C8-46FF-B498-8E779D7523B1}|BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj|solutionrelative:burgerapp.viewmodels\\burgerviewmodels\\burgerdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E90E1B-D7C8-46FF-B498-8E779D7523B1}|BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.viewmodels\\burgerviewmodels\\burgerlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E90E1B-D7C8-46FF-B498-8E779D7523B1}|BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj|solutionrelative:burgerapp.viewmodels\\burgerviewmodels\\burgerlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E90E1B-D7C8-46FF-B498-8E779D7523B1}|BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.viewmodels\\burgerviewmodels\\burgerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E90E1B-D7C8-46FF-B498-8E779D7523B1}|BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj|solutionrelative:burgerapp.viewmodels\\burgerviewmodels\\burgerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F94E9DC-03D5-4371-B39E-80586EBBA7A2}|BurgerApp.Mappers\\BurgerApp.Mappers.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.mappers\\burgermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F94E9DC-03D5-4371-B39E-80586EBBA7A2}|BurgerApp.Mappers\\BurgerApp.Mappers.csproj|solutionrelative:burgerapp.mappers\\burgermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F94E9DC-03D5-4371-B39E-80586EBBA7A2}|BurgerApp.Mappers\\BurgerApp.Mappers.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.mappers\\ordermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F94E9DC-03D5-4371-B39E-80586EBBA7A2}|BurgerApp.Mappers\\BurgerApp.Mappers.csproj|solutionrelative:burgerapp.mappers\\ordermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.app\\controllers\\burgercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|solutionrelative:burgerapp.app\\controllers\\burgercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{562EF669-C7C8-44ED-9A14-8BA42C36354D}|BurgerApp.App\\BurgerApp.App.csproj|solutionrelative:burgerapp.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D4C8F-FCD9-4A92-A70D-04DACC35290E}|BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj|d:\\8. sedc\\burger-app-asp.net-mvc\\burgerapp\\burgerapp.dataaccess\\migrations\\20240217224115_addedorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8D4C8F-FCD9-4A92-A70D-04DACC35290E}|BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj|solutionrelative:burgerapp.dataaccess\\migrations\\20240217224115_addedorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 30,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240217224115_addedOrder.cs",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.DataAccess\\Migrations\\20240217224115_addedOrder.cs",
+              "RelativeDocumentMoniker": "BurgerApp.DataAccess\\Migrations\\20240217224115_addedOrder.cs",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.DataAccess\\Migrations\\20240217224115_addedOrder.cs",
+              "RelativeToolTip": "BurgerApp.DataAccess\\Migrations\\20240217224115_addedOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T23:04:25.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Order\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BurgerApp.App\\Views\\Order\\Delete.cshtml",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Order\\Delete.cshtml",
+              "RelativeToolTip": "BurgerApp.App\\Views\\Order\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T22:24:05.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Order\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BurgerApp.App\\Views\\Order\\Edit.cshtml",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Order\\Edit.cshtml",
+              "RelativeToolTip": "BurgerApp.App\\Views\\Order\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T22:23:40.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "BurgerApp.App\\Views\\Order\\Create.cshtml",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "BurgerApp.App\\Views\\Order\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T22:23:16.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "BurgerApp.App\\Views\\Order\\Details.cshtml",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "BurgerApp.App\\Views\\Order\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T22:22:52.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "BurgerApp.App\\Views\\Order\\Index.cshtml",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "BurgerApp.App\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwCIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T22:22:13.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BurgerApp.App\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BurgerApp.App\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T22:20:49.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "BurgerApp.App\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "BurgerApp.App\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAADwvzYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T22:08:55.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_BurgerCardPartial.cshtml",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Shared\\Partials\\_BurgerCardPartial.cshtml",
+              "RelativeDocumentMoniker": "BurgerApp.App\\Views\\Shared\\Partials\\_BurgerCardPartial.cshtml",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Shared\\Partials\\_BurgerCardPartial.cshtml",
+              "RelativeToolTip": "BurgerApp.App\\Views\\Shared\\Partials\\_BurgerCardPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T21:37:51.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BurgerApp.App\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BurgerApp.App\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T21:37:21.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Burger\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BurgerApp.App\\Views\\Burger\\Delete.cshtml",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Burger\\Delete.cshtml",
+              "RelativeToolTip": "BurgerApp.App\\Views\\Burger\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T21:36:25.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Burger\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BurgerApp.App\\Views\\Burger\\Edit.cshtml",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Burger\\Edit.cshtml",
+              "RelativeToolTip": "BurgerApp.App\\Views\\Burger\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T21:36:11.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Burger\\Details.cshtml",
+              "RelativeDocumentMoniker": "BurgerApp.App\\Views\\Burger\\Details.cshtml",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Burger\\Details.cshtml",
+              "RelativeToolTip": "BurgerApp.App\\Views\\Burger\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T21:36:01.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Burger\\Index.cshtml",
+              "RelativeDocumentMoniker": "BurgerApp.App\\Views\\Burger\\Index.cshtml",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Burger\\Index.cshtml",
+              "RelativeToolTip": "BurgerApp.App\\Views\\Burger\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T21:35:18.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Burger\\Create.cshtml",
+              "RelativeDocumentMoniker": "BurgerApp.App\\Views\\Burger\\Create.cshtml",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Burger\\Create.cshtml",
+              "RelativeToolTip": "BurgerApp.App\\Views\\Burger\\Create.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T21:35:16.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "BurgerApp.App\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "BurgerApp.App\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T21:34:59.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BurgerOrder.cs",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Domain\\Models\\BurgerOrder.cs",
+              "RelativeDocumentMoniker": "BurgerApp.Domain\\Models\\BurgerOrder.cs",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Domain\\Models\\BurgerOrder.cs",
+              "RelativeToolTip": "BurgerApp.Domain\\Models\\BurgerOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T21:33:21.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Location.cs",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Domain\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "BurgerApp.Domain\\Models\\Location.cs",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Domain\\Models\\Location.cs",
+              "RelativeToolTip": "BurgerApp.Domain\\Models\\Location.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T21:33:09.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Domain\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "BurgerApp.Domain\\Models\\Order.cs",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Domain\\Models\\Order.cs",
+              "RelativeToolTip": "BurgerApp.Domain\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T21:32:54.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Burger.cs",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Domain\\Models\\Burger.cs",
+              "RelativeDocumentMoniker": "BurgerApp.Domain\\Models\\Burger.cs",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Domain\\Models\\Burger.cs",
+              "RelativeToolTip": "BurgerApp.Domain\\Models\\Burger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T21:32:39.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Domain\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BurgerApp.Domain\\Models\\BaseEntity.cs",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Domain\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "BurgerApp.Domain\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T21:32:16.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.ViewModels\\OrderViewModels\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "BurgerApp.ViewModels\\OrderViewModels\\OrderViewModel.cs",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.ViewModels\\OrderViewModels\\OrderViewModel.cs",
+              "RelativeToolTip": "BurgerApp.ViewModels\\OrderViewModels\\OrderViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T21:31:48.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BurgerListViewModel.cs",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.ViewModels\\BurgerViewModels\\BurgerListViewModel.cs",
+              "RelativeDocumentMoniker": "BurgerApp.ViewModels\\BurgerViewModels\\BurgerListViewModel.cs",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.ViewModels\\BurgerViewModels\\BurgerListViewModel.cs",
+              "RelativeToolTip": "BurgerApp.ViewModels\\BurgerViewModels\\BurgerListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T21:31:05.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjectionHelper.cs",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Helpers\\DependencyInjectionHelper.cs",
+              "RelativeDocumentMoniker": "BurgerApp.Helpers\\DependencyInjectionHelper.cs",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Helpers\\DependencyInjectionHelper.cs",
+              "RelativeToolTip": "BurgerApp.Helpers\\DependencyInjectionHelper.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T21:30:07.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BurgerMapper.cs",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Mappers\\BurgerMapper.cs",
+              "RelativeDocumentMoniker": "BurgerApp.Mappers\\BurgerMapper.cs",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Mappers\\BurgerMapper.cs",
+              "RelativeToolTip": "BurgerApp.Mappers\\BurgerMapper.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAADgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T21:10:53.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderMapper.cs",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Mappers\\OrderMapper.cs",
+              "RelativeDocumentMoniker": "BurgerApp.Mappers\\OrderMapper.cs",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Mappers\\OrderMapper.cs",
+              "RelativeToolTip": "BurgerApp.Mappers\\OrderMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T21:29:26.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Services\\Implementations\\OrderService.cs",
+              "RelativeDocumentMoniker": "BurgerApp.Services\\Implementations\\OrderService.cs",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Services\\Implementations\\OrderService.cs",
+              "RelativeToolTip": "BurgerApp.Services\\Implementations\\OrderService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T21:28:55.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Services\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "BurgerApp.Services\\Interfaces\\IOrderService.cs",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Services\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "BurgerApp.Services\\Interfaces\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T21:28:34.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.DataAccess\\Repositories\\Implementations\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "BurgerApp.DataAccess\\Repositories\\Implementations\\OrderRepository.cs",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.DataAccess\\Repositories\\Implementations\\OrderRepository.cs",
+              "RelativeToolTip": "BurgerApp.DataAccess\\Repositories\\Implementations\\OrderRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T21:27:06.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BurgerDetailsViewModel.cs",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.ViewModels\\BurgerViewModels\\BurgerDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "BurgerApp.ViewModels\\BurgerViewModels\\BurgerDetailsViewModel.cs",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.ViewModels\\BurgerViewModels\\BurgerDetailsViewModel.cs",
+              "RelativeToolTip": "BurgerApp.ViewModels\\BurgerViewModels\\BurgerDetailsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T21:10:12.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BurgerViewModel.cs",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.ViewModels\\BurgerViewModels\\BurgerViewModel.cs",
+              "RelativeDocumentMoniker": "BurgerApp.ViewModels\\BurgerViewModels\\BurgerViewModel.cs",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.ViewModels\\BurgerViewModels\\BurgerViewModel.cs",
+              "RelativeToolTip": "BurgerApp.ViewModels\\BurgerViewModels\\BurgerViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T21:10:08.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BurgerRepository.cs",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.DataAccess\\Repositories\\Implementations\\BurgerRepository.cs",
+              "RelativeDocumentMoniker": "BurgerApp.DataAccess\\Repositories\\Implementations\\BurgerRepository.cs",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.DataAccess\\Repositories\\Implementations\\BurgerRepository.cs",
+              "RelativeToolTip": "BurgerApp.DataAccess\\Repositories\\Implementations\\BurgerRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T21:09:03.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.DataAccess\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "BurgerApp.DataAccess\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.DataAccess\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "BurgerApp.DataAccess\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T21:08:55.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BurgerService.cs",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Services\\Implementations\\BurgerService.cs",
+              "RelativeDocumentMoniker": "BurgerApp.Services\\Implementations\\BurgerService.cs",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Services\\Implementations\\BurgerService.cs",
+              "RelativeToolTip": "BurgerApp.Services\\Implementations\\BurgerService.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAA4wFkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T21:08:12.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBurgerService.cs",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Services\\Interfaces\\IBurgerService.cs",
+              "RelativeDocumentMoniker": "BurgerApp.Services\\Interfaces\\IBurgerService.cs",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Services\\Interfaces\\IBurgerService.cs",
+              "RelativeToolTip": "BurgerApp.Services\\Interfaces\\IBurgerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T21:06:49.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BurgerApp.App\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BurgerApp.App\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T21:05:34.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BurgerAppDbContext.cs",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.DataAccess\\DataContext\\BurgerAppDbContext.cs",
+              "RelativeDocumentMoniker": "BurgerApp.DataAccess\\DataContext\\BurgerAppDbContext.cs",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.DataAccess\\DataContext\\BurgerAppDbContext.cs",
+              "RelativeToolTip": "BurgerApp.DataAccess\\DataContext\\BurgerAppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T20:58:47.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Program.cs",
+              "RelativeDocumentMoniker": "BurgerApp.App\\Program.cs",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Program.cs",
+              "RelativeToolTip": "BurgerApp.App\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T20:53:05.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BurgerController.cs",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Controllers\\BurgerController.cs",
+              "RelativeDocumentMoniker": "BurgerApp.App\\Controllers\\BurgerController.cs",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Controllers\\BurgerController.cs",
+              "RelativeToolTip": "BurgerApp.App\\Controllers\\BurgerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T20:52:51.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BurgerApp.App\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.App\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BurgerApp.App\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T20:52:33.363Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
