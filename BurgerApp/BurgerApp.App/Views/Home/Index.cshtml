@@ -3,15 +3,24 @@
 <div class="text-center">
     <h2 class="display-4">Welcome to Burger Shop</h2>
     <hr />
-    <h3>Most Popular Burger</h3>
-    @if (Model != null && Model.Count > 0)
+    @if (ViewData["MostPopularBurger"] != null)
     {
-        <h4>Name: @Model[0].Name</h4>
-        <p>Price: @Model[0].Price</p>
-        <img src="@Model[0].ImgUrl" alt="Most Popular Burger" />
+        <h3>Most Popular Burger</h3>
+        <div>
+            <h4>Name: @(((BurgerListViewModel)ViewData["MostPopularBurger"]).Name)</h4>
+            <p>Price: @(((BurgerListViewModel)ViewData["MostPopularBurger"]).Price)</p>
+            <img src="@(((BurgerListViewModel)ViewData["MostPopularBurger"]).ImgUrl)" alt="Most Popular Burger" />
+        </div>
     }
     else
     {
         <p>No data available for the most popular burger.</p>
     }
+
+@*     <div class="row pb-3 m-1 mt-3">
+        @foreach (var burger in Model)
+        {
+            <partial name="~/Views/Shared/Partials/_BurgerCardPartial.cshtml" for="@burger" />
+        }
+    </div> *@
 </div>

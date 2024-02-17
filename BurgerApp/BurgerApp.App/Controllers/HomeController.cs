@@ -18,6 +18,9 @@ namespace BurgerApp.App.Controllers
 
         public async Task<IActionResult> Index()
         {
+            var mostPopularBurger = await _burgerService.GetMostPopularBurger();
+            ViewData["MostPopularBurger"] = mostPopularBurger;
+
             return View(await _burgerService.GetBurgersForCards());
         }
 

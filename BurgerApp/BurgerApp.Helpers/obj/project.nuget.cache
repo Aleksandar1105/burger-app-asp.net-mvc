@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JntGOBwcNW+47U9j67hGgbF+f1iLWECxM+NAiXX4ThSHB0T36zVCw141eHcex0y+uw41ikoq/AYdTBYiRlzIjg==",
+  "dgSpecHash": "wSjlLEz0yDPsh8bmByU0BmPjcfMMJUojSCIZenNA2IKIUe8ig6lVMD8oDCY4n8Gn+Rnt1E4D/ZHBARy0wbyBkA==",
   "success": true,
-  "projectFilePath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Helpers\\BurgerApp.Helpers.csproj",
+  "projectFilePath": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Helpers\\BurgerApp.Helpers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acika\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\acika\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

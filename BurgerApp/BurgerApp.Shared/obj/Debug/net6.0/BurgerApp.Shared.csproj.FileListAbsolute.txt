@@ -33,3 +33,4 @@ C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Shared\obj\Debug\net6.0\BurgerAp
 C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Shared\obj\Debug\net6.0\refint\BurgerApp.Shared.dll
 C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Shared\obj\Debug\net6.0\BurgerApp.Shared.pdb
 C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Shared\obj\Debug\net6.0\ref\BurgerApp.Shared.dll
+D:\8. SEDC\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Shared\obj\Debug\net6.0\BurgerApp.Shared.sourcelink.json

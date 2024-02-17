@@ -7,6 +7,6 @@ namespace BurgerApp.Services.Interfaces
         Task<List<OrderViewModel>> GetAll();
         Task<int> Save(OrderViewModel model);
         Task<OrderViewModel> Details(int id);
-        void Delete(int id);
+        Task Delete(int id);
     }
 }

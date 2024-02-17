@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yN/CS2uosdXs8F/gEfUjhMzXvXQ8HMqRlMnUmp57ivt7IX5i4sHTjVeospXCgsWgHZTy+qihAGtB+2aezUL6Ig==",
+  "dgSpecHash": "5ZjpWE6v9u2+kOIQ0q9Syuyg4Y0qa1lOVAHb228AmiOVHBDxx9bq5aLvOCPsd0PltJpnJ3/RcRZXBBYd6lTuMg==",
   "success": true,
-  "projectFilePath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj",
+  "projectFilePath": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

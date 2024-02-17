@@ -19,7 +19,7 @@
         public async Task CreateBurger(BurgerViewModel burgerViewModel)
         {
             await _burgerRepository.Insert(burgerViewModel.ToBurger());
-        }
+        } 
 
         public async Task<int> DeleteBurgerById(int id)
         {
@@ -71,6 +71,21 @@
             List<Burger> burgersDb = await _burgerRepository.GetAll();
 
             return burgersDb.Select(x => x.ToBurgerListViewModel()).ToList();
+        }
+
+        public async Task<BurgerListViewModel> GetMostPopularBurger()
+        {
+            List<Burger> burgers = await _burgerRepository.GetAll();
+
+            var orderedBurgers = burgers.Select(burger => new
+            {
+                Burger = burger,
+                OrderCount = burger.BurgerOrders.Count
+            }).OrderByDescending(x => x.OrderCount);
+
+            var mostPopularBurger = orderedBurgers.FirstOrDefault()?.Burger;
+
+            return mostPopularBurger?.ToBurgerListViewModel();
         }
     }
 }

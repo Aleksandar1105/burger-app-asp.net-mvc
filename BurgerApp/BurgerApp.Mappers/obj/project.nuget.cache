@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3GVs4YnSr58V25CYmikHMS8wgL+pzx6LS28LzVefGPmsYZ1Krd5VJTSuvS03zYObuLVliDCwhw6pXKejbMbRsw==",
+  "dgSpecHash": "lJh7Otr834DVmDKF1dt9hJkbnA7i/xeb3Mnsqe0gHs99nO5RvvHAb/aqxTQyf7B3Q38xg+yZKGpfFxLH9+TlCw==",
   "success": true,
-  "projectFilePath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj",
+  "projectFilePath": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

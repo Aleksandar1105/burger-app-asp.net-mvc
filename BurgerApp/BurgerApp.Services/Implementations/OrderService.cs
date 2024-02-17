@@ -9,21 +9,22 @@ namespace BurgerApp.Services.Implementations
 {
     public class OrderService : IOrderService
     {
-        private IRepository<Order> _orderRepository;
+        private readonly IRepository<Order> _orderRepository;
         public OrderService(IRepository<Order> orderRepository)
         {
             _orderRepository = orderRepository;
         }
-        public void Delete(int id)
+
+        public async Task Delete(int id)
         {
-            var existingOrder = _orderRepository.GetById(id);
+            var existingOrder = await _orderRepository.GetById(id);
 
             if (existingOrder == null)
             {
                 throw new Exception($"Order with id {id} does not exist");
             }
 
-            _orderRepository.DeleteById(existingOrder.Id);
+            await _orderRepository.DeleteById(existingOrder.Id);
         }
 
         public async Task<OrderViewModel> Details(int id)
@@ -49,10 +50,22 @@ namespace BurgerApp.Services.Implementations
         {
             var order = new Order()
             {
-               
+                FullName = model.FullName,
+                Address = model.Address,
+                IsDelivered = model.IsDelivered,
+                LocationId = model.LocationId
             };
 
-            await _orderRepository.Insert(order);
+            if (model.Id != 0)
+            {
+                order.Id = model.Id;
+                await _orderRepository.Update(order);
+            }
+            else
+            {
+                await _orderRepository.Insert(order);
+            }
+
 
             return order.Id;
         }

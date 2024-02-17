@@ -289,3 +289,4 @@ D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.App\bin\Debug\net6.0\Burge
 D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.App\bin\Debug\net6.0\BurgerApp.Mappers.pdb
 D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.App\bin\Debug\net6.0\BurgerApp.Services.pdb
 D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.App\bin\Debug\net6.0\BurgerApp.ViewModels.pdb
+D:\8. SEDC\burger-app-asp.net-mvc\BurgerApp\BurgerApp.App\obj\Debug\net6.0\BurgerApp.App.sourcelink.json

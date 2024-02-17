@@ -49,3 +49,4 @@ C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\refi
 C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\BurgerApp.DataAccess.pdb
 C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\BurgerApp.DataAccess.genruntimeconfig.cache
 C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\ref\BurgerApp.DataAccess.dll
+D:\8. SEDC\burger-app-asp.net-mvc\BurgerApp\BurgerApp.DataAccess\obj\Debug\net6.0\BurgerApp.DataAccess.sourcelink.json

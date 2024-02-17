@@ -15,5 +15,7 @@
         Task<BurgerViewModel> GetBurgerForEditing(int id);
 
         Task EditBurger(BurgerViewModel burgerViewModel);
+
+        Task<BurgerListViewModel> GetMostPopularBurger();
     }
 }

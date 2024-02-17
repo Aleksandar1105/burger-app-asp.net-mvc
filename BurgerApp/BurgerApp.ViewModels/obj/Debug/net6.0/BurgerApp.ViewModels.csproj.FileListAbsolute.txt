@@ -37,3 +37,4 @@ C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\ref\
 D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.ViewModels\bin\Debug\net6.0\BurgerApp.Domain.dll
 D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.ViewModels\bin\Debug\net6.0\BurgerApp.Domain.pdb
 D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\BurgerApp.ViewModels.csproj.CopyComplete
+D:\8. SEDC\burger-app-asp.net-mvc\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\BurgerApp.ViewModels.sourcelink.json

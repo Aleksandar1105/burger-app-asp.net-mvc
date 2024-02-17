@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fkamJJ40IdUuwkG46DFjqAKIzbFTPAFKyMLjZ5rjaot/19l7xtbZSfRpgXkQHqKmBOKBczc3plViSLBadQwnSg==",
+  "dgSpecHash": "EYC37l2wXOeV9nacEGDKD1CoXhJuMa8QFQLLAG56zYtU98n8bf8ibFF254Dx/YsVHf/4GG6NfGXlzKya1bO+5Q==",
   "success": true,
-  "projectFilePath": "D:\\8. SEDC\\BURGER-APP-ASP.NET-MVC\\BurgerApp\\BurgerApp.Shared\\BurgerApp.Shared.csproj",
+  "projectFilePath": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Shared\\BurgerApp.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

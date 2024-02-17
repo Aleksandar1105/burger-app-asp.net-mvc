@@ -1,0 +1,9 @@
+﻿@model OrderViewModel
+
+<div class="container">
+    <h1>Order Details</h1>
+    <p><strong>Full Name:</strong> @Model.FullName</p>
+    <p><strong>Address:</strong> @Model.Address</p>
+    <p><strong>Is Delivered:</strong> @(Model.IsDelivered ? "Yes" : "No")</p>
+    <p><strong>Location:</strong> @Model.LocationId</p>
+</div>
