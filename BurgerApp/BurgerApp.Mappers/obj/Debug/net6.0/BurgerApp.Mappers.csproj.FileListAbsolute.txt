@@ -45,3 +45,9 @@ D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\B
 D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.ViewModels.pdb
 D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.csproj.CopyComplete
 D:\8. SEDC\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.sourcelink.json
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.Domain.dll
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.ViewModels.dll
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.Domain.pdb
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.ViewModels.pdb
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.sourcelink.json
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.csproj.CopyComplete

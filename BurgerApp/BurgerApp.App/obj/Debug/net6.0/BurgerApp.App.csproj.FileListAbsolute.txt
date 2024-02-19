@@ -290,3 +290,10 @@ D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.App\bin\Debug\net6.0\Burge
 D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.App\bin\Debug\net6.0\BurgerApp.Services.pdb
 D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.App\bin\Debug\net6.0\BurgerApp.ViewModels.pdb
 D:\8. SEDC\burger-app-asp.net-mvc\BurgerApp\BurgerApp.App\obj\Debug\net6.0\BurgerApp.App.sourcelink.json
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.App\bin\Debug\net6.0\BurgerApp.Mappers.dll
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.App\bin\Debug\net6.0\BurgerApp.Services.dll
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.App\bin\Debug\net6.0\BurgerApp.ViewModels.dll
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.App\bin\Debug\net6.0\BurgerApp.Mappers.pdb
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.App\bin\Debug\net6.0\BurgerApp.Services.pdb
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.App\bin\Debug\net6.0\BurgerApp.ViewModels.pdb
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.App\obj\Debug\net6.0\BurgerApp.App.sourcelink.json

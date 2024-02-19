@@ -52,7 +52,7 @@ namespace BurgerApp.App.Controllers
 
         public async Task<IActionResult> Delete(int id)
         {
-             _orderService.Delete(id);
+             await _orderService.Delete(id);
             return RedirectToAction("Index");
         }
     }

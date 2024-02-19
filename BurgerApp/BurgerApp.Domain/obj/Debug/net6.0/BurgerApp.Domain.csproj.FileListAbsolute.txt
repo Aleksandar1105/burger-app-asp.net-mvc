@@ -12,7 +12,6 @@ D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\re
 E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.deps.json
 E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.dll
 E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Domain\bin\Debug\net6.0\BurgerApp.Domain.pdb
-E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.csproj.AssemblyReference.cache
 E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
 E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.AssemblyInfoInputs.cache
 E:\Aleksandar\coding\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.AssemblyInfo.cs
@@ -34,3 +33,4 @@ C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\refint\B
 C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.pdb
 C:\Users\Aleksandar\Desktop\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\ref\BurgerApp.Domain.dll
 D:\8. SEDC\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.sourcelink.json
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.sourcelink.json

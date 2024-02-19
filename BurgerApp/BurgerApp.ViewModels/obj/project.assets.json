@@ -27,23 +27,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\acika\\.nuget\\packages\\": {},
+    "C:\\Users\\Aleksandar\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj",
+      "projectUniqueName": "E:\\Aleksandar\\coding\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj",
       "projectName": "BurgerApp.ViewModels",
-      "projectPath": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj",
-      "packagesPath": "C:\\Users\\acika\\.nuget\\packages\\",
-      "outputPath": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.ViewModels\\obj\\",
+      "projectPath": "E:\\Aleksandar\\coding\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj",
+      "packagesPath": "C:\\Users\\Aleksandar\\.nuget\\packages\\",
+      "outputPath": "E:\\Aleksandar\\coding\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.ViewModels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\acika\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Aleksandar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -59,8 +59,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
-              "projectPath": "D:\\8. SEDC\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj"
+            "E:\\Aleksandar\\coding\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
+              "projectPath": "E:\\Aleksandar\\coding\\burger-app-asp.net-mvc\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj"
             }
           }
         }
@@ -69,11 +69,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -95,7 +90,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

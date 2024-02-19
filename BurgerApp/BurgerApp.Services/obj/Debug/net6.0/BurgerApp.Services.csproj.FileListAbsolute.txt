@@ -53,3 +53,13 @@ D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\bin\Debug\net6.0\
 D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Domain.pdb
 D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.csproj.CopyComplete
 D:\8. SEDC\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.sourcelink.json
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.DataAccess.dll
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Domain.dll
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Mappers.dll
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.ViewModels.dll
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.DataAccess.pdb
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Mappers.pdb
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.ViewModels.pdb
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Services\bin\Debug\net6.0\BurgerApp.Domain.pdb
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.sourcelink.json
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.csproj.CopyComplete

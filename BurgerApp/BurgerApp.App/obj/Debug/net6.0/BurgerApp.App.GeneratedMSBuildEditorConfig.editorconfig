@@ -9,79 +9,79 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BurgerApp.App
 build_property.RootNamespace = BurgerApp.App
-build_property.ProjectDir = D:\8. SEDC\burger-app-asp.net-mvc\BurgerApp\BurgerApp.App\
+build_property.ProjectDir = E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.App\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\8. SEDC\burger-app-asp.net-mvc\BurgerApp\BurgerApp.App
+build_property.MSBuildProjectDirectory = E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.App
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/8. SEDC/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Burger/Create.cshtml]
+[E:/Aleksandar/coding/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Burger/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVyZ2VyXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/8. SEDC/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Burger/Delete.cshtml]
+[E:/Aleksandar/coding/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Burger/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVyZ2VyXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/8. SEDC/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Burger/Details.cshtml]
+[E:/Aleksandar/coding/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Burger/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVyZ2VyXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/8. SEDC/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Burger/Edit.cshtml]
+[E:/Aleksandar/coding/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Burger/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVyZ2VyXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/8. SEDC/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Burger/Index.cshtml]
+[E:/Aleksandar/coding/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Burger/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVyZ2VyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/8. SEDC/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Home/AboutUs.cshtml]
+[E:/Aleksandar/coding/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Home/AboutUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/8. SEDC/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Home/Index.cshtml]
+[E:/Aleksandar/coding/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/8. SEDC/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Order/Create.cshtml]
+[E:/Aleksandar/coding/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Order/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/8. SEDC/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Order/Delete.cshtml]
+[E:/Aleksandar/coding/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Order/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/8. SEDC/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Order/Details.cshtml]
+[E:/Aleksandar/coding/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Order/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/8. SEDC/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Order/Edit.cshtml]
+[E:/Aleksandar/coding/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Order/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/8. SEDC/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Order/Index.cshtml]
+[E:/Aleksandar/coding/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Order/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/8. SEDC/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Shared/Partials/_BurgerCardPartial.cshtml]
+[E:/Aleksandar/coding/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Shared/Partials/_BurgerCardPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXF9CdXJnZXJDYXJkUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/8. SEDC/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Aleksandar/coding/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/8. SEDC/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/_ViewImports.cshtml]
+[E:/Aleksandar/coding/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/8. SEDC/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/_ViewStart.cshtml]
+[E:/Aleksandar/coding/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/8. SEDC/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Shared/_Layout.cshtml]
+[E:/Aleksandar/coding/burger-app-asp.net-mvc/BurgerApp/BurgerApp.App/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-0jvd1f33j0

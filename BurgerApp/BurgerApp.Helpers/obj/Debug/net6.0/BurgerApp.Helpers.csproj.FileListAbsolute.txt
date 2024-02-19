@@ -62,3 +62,10 @@ D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\bin\Debug\net6.0\B
 D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\bin\Debug\net6.0\BurgerApp.Mappers.pdb
 D:\8. SEDC\BURGER-APP-ASP.NET-MVC\BurgerApp\BurgerApp.Helpers\bin\Debug\net6.0\BurgerApp.ViewModels.pdb
 D:\8. SEDC\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Helpers\obj\Debug\net6.0\BurgerApp.Helpers.sourcelink.json
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Helpers\bin\Debug\net6.0\BurgerApp.Mappers.dll
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Helpers\bin\Debug\net6.0\BurgerApp.Services.dll
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Helpers\bin\Debug\net6.0\BurgerApp.ViewModels.dll
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Helpers\bin\Debug\net6.0\BurgerApp.Services.pdb
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Helpers\bin\Debug\net6.0\BurgerApp.Mappers.pdb
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Helpers\bin\Debug\net6.0\BurgerApp.ViewModels.pdb
+E:\Aleksandar\coding\burger-app-asp.net-mvc\BurgerApp\BurgerApp.Helpers\obj\Debug\net6.0\BurgerApp.Helpers.sourcelink.json

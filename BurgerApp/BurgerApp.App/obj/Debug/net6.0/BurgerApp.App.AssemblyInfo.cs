@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BurgerApp.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73bbfdd0fc9a4e0611a741177c2321462f784508")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db206a53f05effaffe8ed1fa035f8fd7df955b75")]
 [assembly: System.Reflection.AssemblyProductAttribute("BurgerApp.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BurgerApp.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
