@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BurgerApp/.vs/BurgerApp/FileContentIndex/909bcb82-d406-4bf9-8484-cff86f9542d4.vsidx
+/BurgerApp/.vs/BurgerApp/FileContentIndex/909bcb82-d406-4bf9-8484-cff86f9542d4.vsidx
+*.vsidx

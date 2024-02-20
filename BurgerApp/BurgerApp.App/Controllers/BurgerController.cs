@@ -1,6 +1,6 @@
 ﻿namespace BurgerApp.App.Controllers
 {
-using BurgerApp.Services.Interfaces;
+    using BurgerApp.Services.Interfaces;
     using BurgerApp.ViewModels.BurgerViewModels;
     using Microsoft.AspNetCore.Mvc;
     public class BurgerController : Controller
@@ -27,7 +27,7 @@ using BurgerApp.Services.Interfaces;
 
         public IActionResult Create()
         {
-            BurgerViewModel burgerViewModel = new BurgerViewModel();
+            BurgerViewModel burgerViewModel = new();
 
             return View(burgerViewModel);
         }
@@ -35,8 +35,20 @@ using BurgerApp.Services.Interfaces;
         [HttpPost]
         public async Task<IActionResult> Create(BurgerViewModel burgerViewModel)
         {
+            if(ModelState.IsValid)
+            {
+                if (string.IsNullOrWhiteSpace(burgerViewModel.Name) || burgerViewModel.Price == 0 || string.IsNullOrWhiteSpace(burgerViewModel.ImageUrl))
+                {
+                    ModelState.AddModelError("", "You must enter the price and the image url!");
+                    return View(burgerViewModel);
+                }
+
             await _burgerService.CreateBurger(burgerViewModel);
             return RedirectToAction("Index");
+            }
+
+            return View(burgerViewModel);
+
         }
 
         public async Task<IActionResult> Edit(int id)

@@ -19,7 +19,7 @@
         public async Task CreateBurger(BurgerViewModel burgerViewModel)
         {
             await _burgerRepository.Insert(burgerViewModel.ToBurger());
-        } 
+        }
 
         public async Task<int> DeleteBurgerById(int id)
         {
@@ -38,7 +38,7 @@
             burgerDb.Name = burgerViewModel.Name;
             burgerDb.ImageUrl = burgerViewModel.ImageUrl;
             burgerDb.IsVegetarian = burgerViewModel.IsVegetarian;
-            burgerDb.IsVegan= burgerViewModel.IsVegan;
+            burgerDb.IsVegan = burgerViewModel.IsVegan;
             burgerDb.HasFries = burgerViewModel.HasFries;
             burgerDb.Price = burgerViewModel.Price;
 
@@ -58,7 +58,7 @@
 
             BurgerViewModel burgerViewModel = burger.ToBurgerViewModel();
 
-            if(burger == null)
+            if (burger == null)
             {
                 throw new Exception("Burger not found");
             }
